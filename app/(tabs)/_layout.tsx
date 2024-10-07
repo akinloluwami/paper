@@ -17,7 +17,7 @@ export default function TabLayout() {
       <Tabs.Screen
         name="index"
         options={{
-          title: "Home",
+          title: "Explore",
           tabBarIcon: ({ color, focused }) => <Telescope color={color} />,
         }}
       />
